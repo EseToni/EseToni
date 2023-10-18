@@ -9,25 +9,15 @@ Welcome to my coding universe! 🌌 I'm Antonio, a 26-year-old coding enthusiast
 
 ## Skills 🛠️:
 
-### Frontend:
-- ⚛ React
-- 📱 React Native
-- ⏭ Next.js
-- 🎨 CSS (Cascading Style Sheets)
-- 🌀 Tailwind CSS
-- 🔧 Bootstrap
-- 🚀 Material-UI (MUI)
-
-### Backend:
-- 🌐 Node.js
-- 🚀 Express
-- 🔗 WebSockets
-- 🍃 MongoDB
-- 🐘 PostgreSQL
-
-### Other Magic ✨:
-- 🔄 React Query
-- 🛠️ And many more...
+| Frontend              | Backend                     | Other Magic               |
+|:----------------------:|:---------------------------:|:-------------------------:|
+| ⚛ React               | 🌐 Node.js                  | 🔄 React Query             |
+| 📱 React Native        | 🚀 Express                  | 🛠️ Scrum                   |
+| ⏭ Next.js             | 🔗 WebSockets               | 📦 Redux                   |
+| 🎨 CSS                | 🍃 MongoDB                  | 📡 GraphQL                 |
+| 🌀 Tailwind CSS        | 🐘 PostgreSQL               | 🚀 Apollo Client           |
+| 🔧 Bootstrap           | 🚧 REST APIs                 | 🤖 Automated Testing       |
+| 🚀 Material-UI (MUI)   | 🛢️ Mongoose                 | 🛢️ Docker                  |
 
 Let's turn coffee into code and dreams into websites! 💻✨ Connect with me for an exciting coding journey.
 
