@@ -26,3 +26,4 @@ Let's turn coffee into code and dreams into websites! 💻✨ Connect with me fo
 - [TikTok](https://www.tiktok.com/@tonidevelop)
 
 May your code compile, and your bugs be minimal! 🐛🚀
+<p align="left"><img src="https://komarev.com/ghpvc/?username=EseToni&label=Visitas+al+perfil"></p>
