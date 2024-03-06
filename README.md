@@ -1,4 +1,4 @@
-# Hi there, I'm Antonio Rodriguez! 👨‍💻🚀
+# Yoo, I'm Antonio Rodriguez! 👨‍💻🚀
 
 Welcome to my coding universe! 🌌 I'm Antonio, a 26-year-old coding enthusiast from the vibrant land of Spain. 🇪🇸
 
