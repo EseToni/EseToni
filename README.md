@@ -26,4 +26,13 @@ Let's turn coffee into code and dreams into websites! 💻✨ Connect with me fo
 - [TikTok](https://www.tiktok.com/@tonidevelop)
 
 May your code compile, and your bugs be minimal! 🐛🚀
+<h2><img src="src/stats.gif" height="30"> Estadísticas de GitHub <img src="src/stats.gif" height="30"></h2>
+
+<a href="https://github.com/EseToni">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=EseToni&rank_icon=github&bg_color=00000000&locale=es&include_all_commits=true&show_icons=true&hide=contribs&custom_title=Tonidev's+Statistics" />
+</a>
+<a href="https://github.com/EseToni">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseToni&langs_count=8&layout=compact&bg_color=00000000&locale=es" />
+</a>
+<br><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=EseToni&label=Visitas+al+perfil"></p>
