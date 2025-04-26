@@ -47,10 +47,10 @@
 
 - 🏗️ Designed cloud-native microservices using Kubernetes (EKS) on AWS
 - 🐳 Containerized EVERYTHING with Docker, because why not?
-- 🚀 CI/CD pipelines on GitHub Actions – auto-deploy like a boss
+- 🚀 CI/CD pipelines on GitHub Actions – auto-deploy 
 - 🔐 Secrets, tokens & secure envs are my bread and butter
-- 📦 Managing Docker images with ECR + DockerHub like a versioned magician
-- 🔍 Debugging on cloud + monitoring with Lens like it’s a video game
+- 📦 Managing Docker images with ECR + DockerHub 
+- 🔍 Debugging on cloud + monitoring with Lens 
 
 ---
 
